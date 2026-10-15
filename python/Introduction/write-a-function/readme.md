@@ -1,7 +1,7 @@
 # Write a function
 
 - **Plataforma:** HackerRank
-- **Dificuldade:** Easy
+- **Dificuldade:** Medium
 - **Categoria:** Introduction
 - **Linguagem:** Python 3
 
