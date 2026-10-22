@@ -1,0 +1,9 @@
+# Finding the percentage
+
+- **Plataforma:** HackerRank
+- **Dificuldade:** Easy
+- **Categoria:** Basic Data Types
+- **Linguagem:** Python 3
+
+## Enunciado
+The provided code stub will read in a dictionary containing key/value pairs of name:[marks] for a list of students. Print the average of the marks array for the student name provided, showing 2 places after the decimal.
